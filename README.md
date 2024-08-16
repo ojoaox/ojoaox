@@ -1,4 +1,4 @@
-### Olá eu sou o João 👋🏻
+### Hi, I'm João 👋🏻
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/By_Joaox)
 
