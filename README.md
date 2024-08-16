@@ -1,4 +1,4 @@
-### Hi, I'm João 👋🏻
+### Olá eu sou o João 👋🏻
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/By_Joaox)
 
@@ -19,7 +19,10 @@
     <img align="center" alt"Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div></br>
 
-## - Learning more everyday 📚
+
+## - Currently working on:
+
+### [EcoLeaf: 🌿](https://github.com/Guilherme-Rigobello/EcoLeaf)
 
 <!--
 **ojoaox/ojoaox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
