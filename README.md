@@ -24,7 +24,7 @@
 
 ### Learning...
 <div style="display: inline_block">
-    <img align="center" alt"Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+    <img align="center" alt"Python" src="https://img.shields.io/badge/Python-007ec6?style=for-the-badge&logo=python&logoColor=ffd43b"/>
     <img align="center" alt"React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=2361DAFB"/>
 </div></br>
 
