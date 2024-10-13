@@ -24,6 +24,7 @@
 </div></br>
 👨🏻‍💻 Programming student in constant learning, always seeking new skills and open to suggestions for improvement. Dedicated to solving problems in the best possible way.
 </br>
+
 ### Learning...
 <div style="display: inline_block">
     <img align="center" alt"Python" src="https://img.shields.io/badge/Python-007ec6?style=for-the-badge&logo=python&logoColor=ffd43b"/>
