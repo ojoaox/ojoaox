@@ -4,7 +4,7 @@
 <!-- STATUS
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=ojoaox&show_icons=true&theme=github_dark)
 -->
-👨🏻‍💻 Programming student in constant learning, always seeking new skills and open to suggestions for improvement. Dedicated to solving problems in the best possible way.
+
 ### Used Technologies
 <div style="display: inline_block">
     <img align="center" alt"HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,7 +22,7 @@
     <img align="center" alt"Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt"Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div></br>
-
+👨🏻‍💻 Programming student in constant learning, always seeking new skills and open to suggestions for improvement. Dedicated to solving problems in the best possible way.
 ### Learning...
 <div style="display: inline_block">
     <img align="center" alt"Python" src="https://img.shields.io/badge/Python-007ec6?style=for-the-badge&logo=python&logoColor=ffd43b"/>
