@@ -1,3 +1,11 @@
+</br>
+</br>
+<p align="flex-start">
+  <img src="https://media.discordapp.net/attachments/1261096469901869210/1296063533078806590/Untitled-1.png?ex=6710ecb9&is=670f9b39&hm=f4b2eae33307d7ad80e451478d10d072f64d8152d18ac6b867832d083828af5f&=&format=webp&quality=lossless&width=530&height=583" alt="Descrição da imagem" width="265" height="291.5">
+</p>
+
+
+
 ## Hi! I'm João 👋🏻
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/By_Joaox)
