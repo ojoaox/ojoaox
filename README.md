@@ -1,10 +1,7 @@
-</br>
-</br>
+
 <p align="flex-start">
   <img src="https://media.discordapp.net/attachments/1261096469901869210/1296175086499270729/hello.png?ex=6711549e&is=6710031e&hm=2b08644a886a4f0c3c0983c096c0f22ae7c35457d2bcb2c107a643df04c1b661&=&format=webp&quality=lossless&width=530&height=583" alt="" width="265" height="291.5">
 </p>
-
-
 
 ## Hi! I'm João 👋🏻
 
