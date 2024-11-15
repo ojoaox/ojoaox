@@ -39,7 +39,7 @@
 
 ## - Currently working on:
 
-### [EcoLeaf: 🌿](https://github.com/Guilherme-Rigobello/EcoLeaf)
+### [EcoLeaf: 🌿](https://github.com/vbzt/EcoLeaf)
 
 <!--
 **ojoaox/ojoaox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
