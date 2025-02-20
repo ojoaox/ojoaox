@@ -25,7 +25,7 @@
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div></br>
-👨🏻‍💻 Programming student in constant learning, always seeking new skills and open to suggestions for improvement. Dedicated to solving problems in the best possible way.
+👨🏻‍💻 Programming student in constant learning, always searching for new skills and open to suggestions for improvement. Dedicated to solving problems in the best possible way.
 </br>
 
 ### Learning...
