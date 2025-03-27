@@ -31,7 +31,6 @@
 ### Learning...
 <div style="display: inline_block">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-007ec6?style=for-the-badge&logo=python&logoColor=ffd43b"/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Ionic-%233880FF?style=for-the-badge&logo=ionic&logoColor=ffffff"/>
 </div></br>
 
 ## - Currently working on:
