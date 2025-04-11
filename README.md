@@ -1,9 +1,9 @@
-## Hi! I'm João 👋🏻
+## Hey, I'm João — welcome to my corner of the internet!! 💻
 
 <!-- STATUS
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=ojoaox&show_icons=true&theme=github_dark)
 -->
-### Stats
+### Github Stats
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaox&layout=compact&theme=github_dark&bg_border_color=2f2f2f&cache_seconds=600)
 
 ### Used Technologies
@@ -25,32 +25,21 @@
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div></br>
-👨🏻‍💻 Programming student in constant learning, always searching for new skills and open to suggestions for improvement. Dedicated to solving problems in the best possible way.
-</br>
 
 ### Learning...
 <div style="display: inline_block">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-007ec6?style=for-the-badge&logo=python&logoColor=ffd43b"/>
 </div></br>
 
-## - Currently working on:
+### Projects
 
+### [EcoLeaf 🌿](https://github.com/vbzt/EcoLeaf)
+Node.js app with personalized plant care recommendations powered by AI, and promote sustainability in your home or business environment.<br/>
+`HTML` `CSS` `Node.js` `MongoDB` `Gemini API`
 
+## 📫 Contact
 
-## - Projects: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojoaox)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzajoaovictor555@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ojoaox_)
 
-### [EcoLeaf: 🌿](https://github.com/vbzt/EcoLeaf)
-<!--
-**ojoaox/ojoaox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
