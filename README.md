@@ -35,7 +35,7 @@
 
 ### [EcoLeaf 🌿](https://github.com/vbzt/EcoLeaf)
 Node.js app with personalized plant care recommendations powered by AI, and promote sustainability in your home or business environment.<br/>
-`HTML` `CSS` `Node.js` `MongoDB` `Gemini API`
+`React.js` `HTML` `CSS` `Node.js` `MongoDB` `Gemini API`
 
 ## 📫 Contact
 
