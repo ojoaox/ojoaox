@@ -1,10 +1,8 @@
 ## Hey, I'm João — welcome to my corner of the internet!! 💻
 
-<!-- STATUS
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=ojoaox&show_icons=true&theme=github_dark)
--->
-### Github Stats
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaox&layout=compact&theme=github_dark&bg_border_color=2f2f2f&cache_seconds=600)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaox&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true)
+
+
 
 ### Used Technologies
 <div style="display: inline_block">
