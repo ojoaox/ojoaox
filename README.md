@@ -10,7 +10,7 @@
 
 
 ## Sobre mim
-- Tenho 18 anos e atualmente curso o Ensino Médio técnico em TI, com conclusão prevista para **dez/2025**.
+- Tenho 18 anos e estou iniciando minha graduação em Engenharia de Software, com conclusão prevista para **2029**.
 - Em constante evolução, explorando frameworks, boas práticas de programação e também novas ferramentas e tecnologias.
 - Meu objetivo é crescer e contribuir positivamente no mundo da tecnologia, dando meu melhor em todos desafios.
 
@@ -25,11 +25,15 @@
 
 ---
 
-## Projetos
+## Principais Projetos
 
 ### [EcoLeaf 🌿](https://github.com/vbzt/EcoLeaf)
 App Node.js com recomendações personalizadas de cuidados com plantas, com tecnologia de IA, e que promove a sustentabilidade em sua casa ou ambiente empresarial.<br/>
 `React.js` `HTML` `CSS` `Node.js` `MongoDB` `Gemini API`
+
+### [BlueMind💙🧠](https://github.com/Guilherme-Rigobello/bluemind)
+Plataforma pensada para ajudar adolescentes a compreender e expressar suas emoções com mais clareza, confiança e leveza através de conteúdos educativos e ferramentas interativas<br/>
+`React.js` `HTML` `CSS` `Firebase` `Gemini API`
 
 ---
 
