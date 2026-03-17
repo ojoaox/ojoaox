@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou o João😄</h1>
+<h1 >Olá, eu sou o João😄</h1>
 
-<h3 align="center">
+<h3 a>
   Bem vindo(a) ao meu canto da internet!! 💻
 </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaox&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true" height="160"/>
+<p >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaox&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true" height="200"/>
 </p>
 
 
