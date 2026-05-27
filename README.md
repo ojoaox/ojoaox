@@ -4,8 +4,9 @@
   Bem vindo(a) ao meu canto da internet!! 💻
 </h3>
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaox&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true" height="200"/>
+<p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ojoaox&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=4493f8&text_color=ffffff&icon_color=4493f8" height="200" />
+<img src="https://streak-stats.demolab.com?user=FelZimmer&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=00000000&ring=4493f8&fire=ff7e01&currStreakNum=ffffff&sideNums=4493f8&currStreakLabel=4493f8&sideLabels=4493f8&dates=ffffff" height="200" />
 </p>
 
 
