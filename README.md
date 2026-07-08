@@ -11,7 +11,7 @@
 
 
 ## Sobre mim
-- Tenho 18 anos e estou iniciando minha graduação em Engenharia de Software, com conclusão prevista para **2029**.
+- Tenho 18 anos e estou iniciando o 2º semestre na graduação em Engenharia de Software, com conclusão prevista para **2029**.
 - Em constante evolução, explorando frameworks, boas práticas de programação e também novas ferramentas e tecnologias.
 - Meu objetivo é crescer e contribuir positivamente no mundo da tecnologia, dando meu melhor em todos desafios.
 
