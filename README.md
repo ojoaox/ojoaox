@@ -1,21 +1,17 @@
-<h1 >Olá, eu sou o João😄</h1>
-
-<h3 a>
+<h1>Olá, eu sou o João😄</h1>
+ 
+<h3>
   Bem vindo(a) ao meu canto da internet!! 💻
 </h3>
-
 <p>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ojoaox&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=4493f8&text_color=ffffff&icon_color=4493f8" height="160" />
-<img src="https://streak-stats.demolab.com?user=FelZimmer&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=00000000&ring=4493f8&fire=ff7e01&currStreakNum=ffffff&sideNums=4493f8&currStreakLabel=4493f8&sideLabels=4493f8&dates=ffffff" height="160" />
+<img src="https://streak-stats.demolab.com?user=ojoaox&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=00000000&ring=4493f8&fire=ff7e01&currStreakNum=ffffff&sideNums=4493f8&currStreakLabel=4493f8&sideLabels=4493f8&dates=ffffff" height="160" />
 </p>
-
-
+ 
 ## Sobre mim
-- Tenho 18 anos e estou iniciando o 2º semestre na graduação em Engenharia de Software, com conclusão prevista para **2029**.
+- Tenho 19 anos e estou iniciando o 2º semestre na graduação em Engenharia de Software, com conclusão prevista para **2029**.
 - Em constante evolução, explorando frameworks, boas práticas de programação e também novas ferramentas e tecnologias.
 - Meu objetivo é crescer e contribuir positivamente no mundo da tecnologia, dando meu melhor em todos desafios.
-
-
 ---
 
 ## Tecnologias e Ferramentas
@@ -27,15 +23,23 @@
 ---
 
 ## Principais Projetos
-
+ 
 ### [EcoLeaf 🌿](https://github.com/vbzt/EcoLeaf)
 App Node.js com recomendações personalizadas de cuidados com plantas, com tecnologia de IA, e que promove a sustentabilidade em sua casa ou ambiente empresarial.<br/>
 `React.js` `HTML` `CSS` `Node.js` `MongoDB` `Gemini API`
-
+ 
 ### [BlueMind💙🧠](https://github.com/Guilherme-Rigobello/bluemind)
 Plataforma pensada para ajudar adolescentes a compreender e expressar suas emoções com mais clareza, confiança e leveza através de conteúdos educativos e ferramentas interativas<br/>
 `React.js` `HTML` `CSS` `Firebase` `Gemini API`
-
+ 
+### [Auron ☀️](https://github.com/SEU-USUARIO/SEU-REPOSITORIO-AURON)
+Plataforma B2B SaaS de monitoramento de anomalias solares para data centers e instalações de painéis solares. Integra dados de satélites orbitais (DSCOVR, ACE e SOHO) com IA preditiva para antecipar tempestades solares.<br/>
+`Python` `Next.js` `C++`
+ 
+### [HAWK 👨🏻‍🦽‍➡️](https://github.com/SEU-USUARIO/SEU-REPOSITORIO-HAWK)
+Tecnologia urbana de travessia adaptativa de pedestres (HAWK Cross), com central web de monitoramento (HAWK Control). Inclui um app em console em Python que consome a API do projeto, desenvolvida em Python com MongoDB.<br/>
+`Python` `Next.js` `C++` `MongoDB`
+ 
 ---
 
 
