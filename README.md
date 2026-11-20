@@ -4,8 +4,8 @@
   Bem vindo(a) ao meu canto da internet!! 💻
 </h3>
 <p>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ojoaox&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=4493f8&text_color=ffffff&icon_color=4493f8" height="160" />
-<img src="https://streak-stats.demolab.com?user=ojoaox&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=00000000&ring=4493f8&fire=ff7e01&currStreakNum=ffffff&sideNums=4493f8&currStreakLabel=4493f8&sideLabels=4493f8&dates=ffffff" height="160" />
+<img src="https://ghstats.dev/api/card?username=ojoaox&hide_border=true&border_radius=0&hide=prs%2Cissues%2Cavg%2Cfollowers%2Cgrade%2Cactive_day%2Cstreak%2Cweek%2Ctrend%2Ccontributions&order=commits%2Chours%2Cstars%2Crepos" width="49%" />
+<img src="https://streak-stats.demolab.com?user=ojoaox&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=00000000&ring=4493f8&fire=ff7e01&currStreakNum=ffffff&sideNums=4493f8&currStreakLabel=4493f8&sideLabels=4493f8&dates=ffffff" width="49%" />
 </p>
  
 ## Sobre mim
