@@ -32,11 +32,11 @@ App Node.js com recomendações personalizadas de cuidados com plantas, com tecn
 Plataforma pensada para ajudar adolescentes a compreender e expressar suas emoções com mais clareza, confiança e leveza através de conteúdos educativos e ferramentas interativas<br/>
 `React.js` `HTML` `CSS` `Firebase` `Gemini API`
  
-### [Auron ☀️](https://github.com/SEU-USUARIO/SEU-REPOSITORIO-AURON)
+### [Auron ☀️](https://github.com/Auron-GS01)
 Plataforma B2B SaaS de monitoramento de anomalias solares para data centers e instalações de painéis solares. Integra dados de satélites orbitais (DSCOVR, ACE e SOHO) com IA preditiva para antecipar tempestades solares.<br/>
 `Python` `Next.js` `C++`
  
-### [HAWK 👨🏻‍🦽‍➡️](https://github.com/SEU-USUARIO/SEU-REPOSITORIO-HAWK)
+### [HAWK 👨🏻‍🦽‍➡️](https://github.com/HAWK-GS02)
 Tecnologia urbana de travessia adaptativa de pedestres (HAWK Cross), com central web de monitoramento (HAWK Control). Inclui um app em console em Python que consome a API do projeto, desenvolvida em Python com MongoDB.<br/>
 `Python` `Next.js` `C++` `MongoDB`
  
